@@ -183,7 +183,7 @@
         <p class="text-base font-bold">
             Most Purchased
         </p>
-        <div class="flex flex-col gap-4">
+        {{-- <div class="flex flex-col gap-4">
             <!-- Softovac Rami -->
             <div class="py-3.5 pl-4 pr-[22px] bg-white rounded-2xl flex gap-1 items-center relative">
                 <img src="{{ asset('assets/images/product-2.webp') }}"
@@ -253,7 +253,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </section>
 
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"
