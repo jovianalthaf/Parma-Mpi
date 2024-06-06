@@ -89,7 +89,7 @@
     <!-- Header -->
     <section class="wrapper flex flex-col gap-2.5 items-center justify-center">
         <p class="text-4xl font-extrabold text-center">
-            We Provide <br>
+            Menyediakan Berbagai Obat <br>
             Best Medicines
         </p>
         <form action="{{ route('front.search') }}" method="GET" id="searchForm" class="w-full">
