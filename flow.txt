@@ -1,0 +1,4 @@
+transaction_details untuk mengambil data harga product pada saat itu, karena 
+harga product bisa naik
+
+product_transactions untuk mengambil data setiap user yang melakukan product transaksi
